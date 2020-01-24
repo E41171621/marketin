@@ -123,16 +123,16 @@
                     <ul class="menu accordion-menu">
                         <li class="active"><a href="index.html" class="waves-effect waves-button"><span class="menu-icon glyphicon glyphicon-home"></span><p>Dashboard</p></a></li>
                         
-                        <li class="droplink"><a href="#" class="waves-effect waves-button"><span class="menu-icon glyphicon glyphicon-envelope"></span><p>Mailbox</p><span class="arrow"></span></a>
+                        <li class="droplink"><a href="#" class="waves-effect waves-button"><span class="menu-icon glyphicon glyphicon-envelope"></span><p>Account</p><span class="arrow"></span></a>
                             <ul class="sub-menu">
-                                <li><a href="inbox.html">Inbox</a></li>
-                                <li><a href="inbox-alt.html">Inbox Alt</a></li>
+                                <li><a href="inbox.html">Add Account</a></li>
+                                <li><a href="inbox-alt.html">List account</a></li>
                             </ul>
                         </li>
-                        <li class="droplink"><a href="#" class="waves-effect waves-button"><span class="menu-icon glyphicon glyphicon-briefcase"></span><p>UI Kits</p><span class="arrow"></span></a>
+                        <li class="droplink"><a href="#" class="waves-effect waves-button"><span class="menu-icon glyphicon glyphicon-briefcase"></span><p>Artikel</p><span class="arrow"></span></a>
                             <ul class="sub-menu">
-                                <li><a href="ui-alerts.html">Alerts</a></li>
-                                <li><a href="ui-buttons.html">Buttons</a></li>
+                                <li><a href="ui-alerts.html">Add artikel</a></li>
+                                <li><a href="ui-buttons.html">List Artikel</a></li>
                             </ul>
                         </li>
                         <li class="droplink"><a href="#" class="waves-effect waves-button"><span class="menu-icon glyphicon glyphicon-th"></span><p>Layouts</p><span class="arrow"></span></a>
